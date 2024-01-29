@@ -1,4 +1,4 @@
-# 👋 Hello ! I’m @Doriankmf***
+# 👋 Hello ! I’m @Doriankmf
 
 👀 I’m interested in Robotics Perception ! More precisely: **3D reconstruction, 3D point clouds registration, Visual SLAM, Visual Odometry, SLAM**
 

@@ -7,7 +7,7 @@ The aim of this thesis is to find a method for using non-static parts of a scene
 
 :thought_balloon: I’m currently learning: Registration of large 3D point clouds in a multi-robot and multi-sensor context
 
-📫 How to reach me: dorian.kmf@u-picardie.fr
+📫 How to reach me: dorian.kempf@u-picardie.fr
   
 **Linkedin:** www.linkedin.com/in/dorian-kempf-0b694b1b3
 

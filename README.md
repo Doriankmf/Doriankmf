@@ -5,7 +5,7 @@ The aim of this thesis is to find a method for using non-static parts of a scene
 
 👀 I’m interested in Robotics Perception ! More precisely: **3D reconstruction, 3D point clouds registration, Visual SLAM, Visual Odometry, SLAM**
 
-🌱 I’m currently learning: Registration of large 3D point clouds in a multi-robot and multi-sensor context
+:thought_balloon: I’m currently learning: Registration of large 3D point clouds in a multi-robot and multi-sensor context
 
 📫 How to reach me: dorian.kmf@u-picardie.fr
   
